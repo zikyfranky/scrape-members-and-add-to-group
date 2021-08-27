@@ -1,3 +1,4 @@
 *.session
 *.session*
 *.csv
+__pycache__
