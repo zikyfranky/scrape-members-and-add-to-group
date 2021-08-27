@@ -20,4 +20,6 @@
 
    You can install telethon using pip: `pip install telethon`
 
-6. Run `py main.py path/to/csv_file.csv`
+6. Run `python get_users.py` to get users from a group, this creates a `.csv` file.
+
+7. Run `py add_users.py path/to/csv_file.csv`
