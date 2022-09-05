@@ -1,4 +1,5 @@
 *.session
 *.session*
 *.csv
+.env
 __pycache__
